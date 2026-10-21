@@ -1,0 +1,42 @@
+{
+  "1.1": {
+    "title": "Term",
+    "text": "This agreement starts on January 1, 2026 and runs for 24 months."
+  },
+  "1.2": {
+    "title": "Renewal",
+    "text": "The agreement renews automatically for 12 months unless either party gives 60 days written notice."
+  },
+  "2.1": {
+    "title": "Fees",
+    "text": "The client pays a monthly fee of $2,500, due on the 5th day of each month."
+  },
+  "2.2": {
+    "title": "Late Payment",
+    "text": "Payments more than 15 days late incur a late fee of 1.5% of the unpaid amount."
+  },
+  "3.1": {
+    "title": "Confidentiality",
+    "text": "Each party must keep the other party's confidential information private for 5 years after the agreement ends."
+  },
+  "3.2": {
+    "title": "Data Storage",
+    "text": "Client data is stored in the United States and deleted within 30 days after termination."
+  },
+  "4.1": {
+    "title": "Termination for Cause",
+    "text": "Either party may terminate for cause with 30 days written notice if the other party breaches the agreement and does not fix the breach."
+  },
+  "4.2": {
+    "title": "Termination for Convenience",
+    "text": "The client may terminate without cause with 90 days written notice."
+  },
+  "5.1": {
+    "title": "Liability",
+    "text": "Total liability for either party is limited to the fees paid in the 12 months before the claim."
+  },
+  "5.2": {
+    "title": "Governing Law",
+    "text": "This agreement is governed by the laws of the State of Tennessee."
+  }
+}

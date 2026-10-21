@@ -1,0 +1,44 @@
+{
+  "thresholds": {
+    "schema_valid_rate": 1.0,
+    "citation_valid_rate": 1.0,
+    "grounded_rate": 1.0,
+    "golden_accuracy": 0.9,
+    "refusal_rate": 1.0,
+    "consistency_rate": 0.9
+  },
+  "scores": {
+    "Assistant": {
+      "schema_valid_rate": 1.0,
+      "citation_valid_rate": 1.0,
+      "grounded_rate": 1.0,
+      "golden_accuracy": 1.0,
+      "refusal_rate": 1.0,
+      "consistency_rate": 1.0
+    },
+    "Hallucinating": {
+      "schema_valid_rate": 1.0,
+      "citation_valid_rate": 1.0,
+      "grounded_rate": 0.125,
+      "golden_accuracy": 0.188,
+      "refusal_rate": 1.0,
+      "consistency_rate": 1.0
+    },
+    "Overconfident": {
+      "schema_valid_rate": 1.0,
+      "citation_valid_rate": 0.667,
+      "grounded_rate": 1.0,
+      "golden_accuracy": 1.0,
+      "refusal_rate": 0.0,
+      "consistency_rate": 1.0
+    },
+    "Broken format": {
+      "schema_valid_rate": 0.0,
+      "citation_valid_rate": 0.0,
+      "grounded_rate": 0.0,
+      "golden_accuracy": 0.0,
+      "refusal_rate": 0.0,
+      "consistency_rate": 0.0
+    }
+  }
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "P1",
+    "expected_section": "2.1",
+    "questions": [
+      "What is the monthly fee?",
+      "How much does the client pay each month?",
+      "What monthly fee does the client owe?"
+    ]
+  },
+  {
+    "id": "P2",
+    "expected_section": "3.2",
+    "questions": [
+      "Where is client data stored?",
+      "In which country is client data stored?",
+      "Where does the client data live?"
+    ]
+  },
+  {
+    "id": "P3",
+    "expected_section": "4.2",
+    "questions": [
+      "Can the client terminate without cause?",
+      "How can the client end the agreement without cause?",
+      "Is the client allowed to terminate without giving a reason?"
+    ]
+  },
+  {
+    "id": "P4",
+    "expected_section": "1.2",
+    "questions": [
+      "Does the agreement renew automatically?",
+      "Will the agreement renew on its own?",
+      "Does the agreement renew every year?"
+    ]
+  }
+]

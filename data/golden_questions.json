@@ -1,0 +1,18 @@
+[
+  {"id": "G01", "question": "What is the term of the agreement?", "expected_section": "1.1", "expected_fact": "24 months"},
+  {"id": "G02", "question": "When does the agreement start?", "expected_section": "1.1", "expected_fact": "January 1, 2026"},
+  {"id": "G03", "question": "Does the agreement renew automatically?", "expected_section": "1.2", "expected_fact": "12 months"},
+  {"id": "G04", "question": "How much notice is needed so the agreement does not renew?", "expected_section": "1.2", "expected_fact": "60 days"},
+  {"id": "G05", "question": "What is the monthly fee?", "expected_section": "2.1", "expected_fact": "$2,500"},
+  {"id": "G06", "question": "When is the fee due each month?", "expected_section": "2.1", "expected_fact": "5th day"},
+  {"id": "G07", "question": "What is the late fee?", "expected_section": "2.2", "expected_fact": "1.5%"},
+  {"id": "G08", "question": "How late can a payment be before a late fee applies?", "expected_section": "2.2", "expected_fact": "15 days"},
+  {"id": "G09", "question": "How long must confidential information be kept private?", "expected_section": "3.1", "expected_fact": "5 years"},
+  {"id": "G10", "question": "Where is client data stored?", "expected_section": "3.2", "expected_fact": "United States"},
+  {"id": "G11", "question": "When is client data deleted?", "expected_section": "3.2", "expected_fact": "30 days"},
+  {"id": "G12", "question": "Can either party terminate for cause?", "expected_section": "4.1", "expected_fact": "30 days written notice"},
+  {"id": "G13", "question": "Can the client terminate without cause?", "expected_section": "4.2", "expected_fact": "90 days"},
+  {"id": "G14", "question": "What is the liability limit?", "expected_section": "5.1", "expected_fact": "12 months"},
+  {"id": "G15", "question": "What law governs the agreement?", "expected_section": "5.2", "expected_fact": "Tennessee"},
+  {"id": "G16", "question": "Which state's law applies?", "expected_section": "5.2", "expected_fact": "Tennessee"}
+]
